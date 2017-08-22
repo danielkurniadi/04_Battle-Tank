@@ -4,5 +4,7 @@
 ## Progress List
 
 1.BT01 Intro, Notes & Assets
+
 2.BT02 Game Design Document (GDD)
+
 3.BT03 Setting Up a GitHub "Repo"
